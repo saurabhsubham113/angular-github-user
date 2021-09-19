@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-app-saurabh": {
+      "hosting": {
+        "github-firebase": [
+          "github-app-saurabh"
+        ]
+      }
+    }
+  }
+}
